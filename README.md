@@ -4,3 +4,5 @@ Criadas funções para adicionar, apagar e salvar. Foi usar setAttribute, DOM co
 Html básico e somente o css pra apreentar a tela.
 
 O objetivo do código foi mostrar como usar function's e criar uma lista de tarefas onde pode-se apagar e incluir atividades!
+
+https://tarefasilva.netlify.app/
